@@ -177,7 +177,7 @@
 
 /* ***************** */
 .box{  display: flex; gap: 8px; row-gap: 8px; column-gap: 8px; flex-wrap: wrap;}
-.box li { padding: 7px;}
+.box li { padding: 7px; cursor: pointer;}
 
 .link{
     padding: 6px 16px;
